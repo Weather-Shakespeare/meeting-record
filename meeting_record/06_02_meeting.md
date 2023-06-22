@@ -1,4 +1,5 @@
 # 06/02 Meeting Record
+###### tags: `Hakathon`, `Meeting`
 
 **Attendees:**
 @all
@@ -36,6 +37,8 @@ Discussion the idea
     - 可以看 reference
     - 因為室內擺設多為固定，可以探究出如何擺設可以更省電
 
+
+
 #### 總結
 以永續相關主題做發想，可以多往這方面去發想題材  
 6/10 前整理 idea 上傳至［企劃發想］-> 發想  
@@ -49,6 +52,7 @@ ex:
 - hugo970217@gmail.com
 - 1chooo
 - ChouTsu
+- jerryyerrj2@gmail.com
 
 ### Reference
 - [Learn how to customize a model for your application](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-studio)
